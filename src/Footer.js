@@ -15,7 +15,7 @@ function Footer() {
                    <span style={{paddingLeft: "15px"}}>E-Commerce, Inc. 2020</span> 
                </div>
                <div className="row footer_logo">
-                    <Logo />    
+                    <Logo />    //shows the logo
                </div>
 
            </div>
